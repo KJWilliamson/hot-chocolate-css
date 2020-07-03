@@ -1,0 +1,48 @@
+body {
+    background: pink;
+  }
+  .coffeecup {
+    position: absolute;
+    background-color: red;
+    top: 32%;
+    left: 40%;
+    width: 170px;
+    height: 240px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  .handle {
+    position: absolute;
+    height: 45%;
+    width: 26%;
+    left: -40%;
+    top: 16%;
+    background: pink;
+    border: solid 24px red;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    
+  }
+  .marshmallow1 {
+    position: absolute;
+    background: white;
+    height: 7%;
+    width: 22%;
+    right: 51%;
+    top: -7%;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    
+  }
+  .marshmallow2 {
+    position: absolute;
+    background: white;
+    height: 7%;
+    width: 22%;
+    top: -7%;
+    right: 18%;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+  }
