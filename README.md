@@ -1,5 +1,5 @@
 ## Pre CSS Art
-* Hot chocolate in coffee mug
+* Hot chocolate in coffee mug with 2 marshmallows
 
 https://kamelaw.gitlab.io/css-hot-chocolate/
 
